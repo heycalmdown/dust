@@ -4,7 +4,6 @@ node_js:
   - "10"
 
 install:
-  - npm i -g hexo-cli
   - npm ci
 
 before_script:
@@ -13,5 +12,5 @@ before_script:
   - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
 
 script:
-  - hexo generate
-  - hexo deploy
+  - npx hexo generate
+  - npx hexo deploy
