@@ -2,9 +2,12 @@
 title: shit
 date: 2018-09-29 12:02:05
 tags:
+- shell
 ---
 
 ![](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)
+
+<!-- more --> 
 
 ## The Fuck
 
