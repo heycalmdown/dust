@@ -6,7 +6,9 @@ tags:
 
 ![](https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif)
 
-## [The Fuck](https://github.com/nvbn/thefuck)
+## The Fuck
+
+[github:nvbn/thefuck](https://github.com/nvbn/thefuck)
 
 자주 내는 오타, 권한 문제, 리모트에 `git push` 할 때 자주 보는 `git push --set-upstream origin haha` 같은. 이 툴이 대신 고쳐준다. 
 
