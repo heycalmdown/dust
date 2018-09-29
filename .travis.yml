@@ -7,8 +7,11 @@ install:
   - npm i -g hexo-cli
   - npm ci
 
+before_script:
+  - git config --global user.name 'heycalmdown'
+  - git config --global user.email 'heyacct@gmail.com'
+  - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
 
 script:
   - hexo generate
   - hexo deploy
-
