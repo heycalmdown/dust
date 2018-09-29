@@ -1,38 +1,10 @@
 ---
-title: Hello World
+title: 먼지구댕이
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+완전 무식한 미립자 같은 팁을 올리는 블로그입니다. 미립자는 영어로 너무 어려워서 대신 먼지구댕이로 하였습니다.
 
-## Quick Start
+지난 평생, 모아두는 블로그도 발행해 보았고, 독자에게 이야기하는 블로그도 발행해 보았고, 사람들과 대화하는 블로그도 발행해 보았으나 모두 실패였습니다. 블로그를 통해 소통이 이루어진다? 그것은 일단 내게는 사실이 아니었습니다. 그렇다면 아예 안 쓰는 것은 어떠냐? 그것도 좋은 선택이긴 합니다.
 
-### Create a new post
+어느날 문득 깨달았습니다. 너무 시시해서 내가 이걸 몰랐었다는 사실을 밝히고 싶지 않은 것들이 쌓여서 내가 되었다. 모르기에는 너무 시시한 것들을 다 알 수는 없다. 어차피 몰랐던 것에 대해서는 쓸 수도 없고. 아무 기대도 하지 않으면 된다.
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+블로그가 하나의 완전한 생명체가 되길 기대하지 말고 갈기갈기 찢겨서 더 큰 생명체(구글)의 영양분이 되는 것에 만족하기로 했습니다.
