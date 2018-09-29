@@ -4,17 +4,18 @@
 
 # Site
 title: 먼지구댕이
-subtitle: 아아
-description:
+subtitle: 
+description: 초미세먼지같은 글이 굴러다니면서 늘어붙고 막 구석에 처박히고 막
 keywords:
-author: Kei Son
-language:
+author: heycalmdown
+language: ko
 timezone:
+configimg: /dust/images/blog-bg.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://heycalmdown.github.io/dust
+root: /dust/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -73,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Lap
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
