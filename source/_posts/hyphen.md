@@ -1,7 +1,7 @@
 ---
 title: -(hyphen)
 date: 2018-10-07 18:48:04
-tags: [shell]
+tags: [shell, zsh]
 ---
 
 유니코드 시대에는 하이픈, 마이너스, N-Dash, M-Dash를 다루는 코드가 따로 있지만(다 비슷하게 생겼다), ASCII 시대에 `-`는 하나뿐이었다.
